@@ -170,24 +170,3 @@ A useful summary table would be:
 |---|---:|---:|---:|
 | Uniform-weighted ESM + structure | TBD | TBD | TBD |
 | Softmax-weighted ESM + structure | TBD | TBD | TBD |
-
-Recommended figures:
-
-- ROC curve
-- precision-recall curve
-- simplified model architecture
-- one representative GPCR structural comparison
-
-## Tools
-
-Python · PyTorch · TensorFlow/Keras · ESM-1b · RDKit · Biopython · scikit-learn · NumPy · pandas
-
-## Research context and contribution
-
-This code was developed as part of a computational biology research project on ligand-dependent GPCR activity prediction. The work explored the integration of structural conformational information with protein language model representations and ligand chemical fingerprints.
-
-This public repository is intended as a **research portfolio** rather than a complete reproduction package. Lab-specific datasets and large generated artifacts have therefore been omitted.
-
-## License
-
-Before adding an open-source license, confirm that the underlying research code and data can be shared publicly under your lab or institution's policies.
