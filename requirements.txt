@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+tensorflow
+torch
+fair-esm
+biopython
+rdkit
+requests
+tqdm
+matplotlib
